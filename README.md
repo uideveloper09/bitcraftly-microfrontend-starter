@@ -23,3 +23,19 @@ independent deployment, team scalability, and long-term maintainability.
 - Modern frontend tooling
 
 ## Folder Structure (Example)
+apps/
+host/
+products/
+users/
+shared/
+ui/
+utils/
+
+## Status
+This is a **starter/reference architecture** used by Bitcraftly
+for planning and designing scalable frontend systems.
+
+---
+
+👤 Maintained by **Sanjay Kr Singh**  
+🚀 Founder @ **Bitcraftly**
